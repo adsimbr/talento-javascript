@@ -6,7 +6,12 @@ Queremos que você elabore uma solução para o problema abaixo utilizando as te
 
 ## O que você deve fazer?
 
-Através de uma consulta ao nosso webservice http://homolog.adsim.co:8080/refrigerantes você deve fazer o seguinte:
+Através de uma consulta ao nosso webservice (abaixo), você deve fazer o seguinte:
+
+URI: http://homolog.adsim.co:8080/refrigerante/listar
+Metodo: GET
+Content-Type: application/json
+
 
 Com o resultado do webserver você deve preencher o combobox Refrigerante
 Ao selecionar um refrigerante no combobox, o campo Preço deve ser preenchido com o preço do refrigerante selecionado.
