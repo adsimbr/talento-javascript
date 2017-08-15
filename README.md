@@ -8,8 +8,8 @@ Queremos que você elabore uma solução para o problema abaixo utilizando as te
 
 Através de uma consulta ao nosso webservice (abaixo), você deve fazer o seguinte:
 
-URI: http://homolog.adsim.co:8080/refrigerante/listar
-Metodo: GET
+URI: http://homolog.adsim.co:8080/refrigerante/listar </br
+Metodo: GET </br
 Content-Type: application/json
 
 
