@@ -23,7 +23,12 @@ Inclusive, a experiência do usuário e código HTML e CSS estão horríveis (no
 #### BÔNUS: É possível adicionar uma novas linhas dinamicamente, com o mesmo comportamento descrito acima?
 O que usar e o que será avaliado?
 
-Você pode utilizar qualquer tecnologia(javascript e css), framework, plugins e bibliotecas para resolver esse problema, tais como: jQuery, jQuery UI, Alngularjs, React, Bootstrap entre outras das sua escolha.
+Você pode utilizar a seguintes tecnologias: 
+- React
+- Bootstrap
+- Vuejs
+- Angular2+
+
 
 ## Será analisado
 
