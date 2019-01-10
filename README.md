@@ -8,7 +8,7 @@ Queremos que você elabore uma solução para o problema abaixo utilizando as te
 
 Através de uma consulta ao nosso webservice (abaixo), você deve fazer o seguinte:
 
-URI: http://api.adsim.co/refrigerante/listar
+URI: https://api.adsim.co/crm/api/v1/refrigerante/listar
 
 Metodo: GET 
 
