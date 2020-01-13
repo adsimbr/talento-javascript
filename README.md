@@ -17,8 +17,7 @@ Content-Type: application/json
 
 Com o resultado do webserver você deve preencher o combobox Refrigerante
 Ao selecionar um refrigerante no combobox, o campo Preço deve ser preenchido com o preço do refrigerante selecionado.
-Os campos totalizadores, precisam funcionar e considerar a quantidade de refrigerantes
-Inclusive, a experiência do usuário e código HTML e CSS estão horríveis (nos ajude nisso).
+Os campos totalizadores, precisam funcionar e considerar a quantidade de refrigerantes.
 
 #### BÔNUS: É possível adicionar uma novas linhas dinamicamente, com o mesmo comportamento descrito acima?
 O que usar e o que será avaliado?
