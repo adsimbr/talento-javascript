@@ -9,22 +9,13 @@ class PivotTable extends React.Component {
   constructor(props){
     super(props);
     
-    const ref = React.useRef();    
+    const ref = React.createRef();    
     const reportDetails = ref.current.flexmonster.getReport();    
 
     this.state = { 
       text: '',                   
     }
   }
-
-  componentDidUpdate() {
-    if(this.ref){
-      debugger
-      this.reportDetails = this.ref.current.flexmonster.getReport()  
-    }
-    
-  }
-
 
   handleChangeText = (event) => {
     this.setState({text: event.target.value})
@@ -33,8 +24,6 @@ class PivotTable extends React.Component {
   handleGetReport = (event) => {     
      console.log(this.reportDetails)
   }
-
-  
 
   onReportComplete = () => {    
     console.log(">>>>", this.reportDetails);
